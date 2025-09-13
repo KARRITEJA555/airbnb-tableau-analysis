@@ -1,4 +1,5 @@
 # Airbnb Data Analysis (Excel + Tableau)
+![Dashboard Screenshot](dashboard.png)
 
 ## Overview
 This project analyzes Airbnb listings data to uncover insights such as pricing trends, revenue patterns, and location-based performance.  
@@ -43,3 +44,4 @@ View the interactive Tableau dashboard here:
 - Host owners can optimize pricing strategies by zipcode.  
 - Investors can identify profitable locations based on historical revenue trends.  
 - Further analysis can integrate customer review data for better insights.  
+
